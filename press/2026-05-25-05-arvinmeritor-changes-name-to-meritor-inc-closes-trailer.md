@@ -1,7 +1,9 @@
 ---
 title: ArvinMeritor Changes Name to Meritor Inc.; Closes Trailer ...
 url: https://www.aftermarketnews.com/arvinmeritor-changes-name-to-meritor-inc-closes-trailer-axle-business-in-europe/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Meritor" press release artificial intelligence'
 position: 5
 source: serpapi-google

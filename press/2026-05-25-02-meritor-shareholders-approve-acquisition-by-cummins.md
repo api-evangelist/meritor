@@ -1,7 +1,9 @@
 ---
 title: Meritor Shareholders Approve Acquisition By Cummins
 url: https://www.prnewswire.com/news-releases/meritor-shareholders-approve-acquisition-by-cummins-301556116.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Meritor" press release artificial intelligence'
 position: 2
 source: serpapi-google

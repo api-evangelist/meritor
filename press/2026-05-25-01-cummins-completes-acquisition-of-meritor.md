@@ -1,7 +1,9 @@
 ---
 title: Cummins completes acquisition of Meritor
 url: https://www.cummins.com/en-na/news/releases/2022/08/03/cummins-completes-acquisition-meritor
-date: '2026-05-25'
+published: '2022-08-03'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Meritor" press release artificial intelligence'
 position: 1
 source: serpapi-google

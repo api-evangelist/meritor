@@ -1,7 +1,9 @@
 ---
 title: Cummins completes acquisition of Meritor COLUMBUS, Ind.
 url: https://www.facebook.com/cbusnews/posts/cummins-completes-acquisition-of-meritorcolumbus-ind-cummins-inc-announced-wedne/1701049970268963/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Meritor" press release artificial intelligence'
 position: 3
 source: serpapi-google
